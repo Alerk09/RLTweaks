@@ -1,4 +1,5 @@
 # Alerk's RL Tweaks
+![Static Badge](https://img.shields.io/badge/Alerk's_RL_Tweaks-Download-red?link=https%3A%2F%2Fgithub.com%2FAlerk09%2FRLTweaks%2Freleases)
 
 This script should change the config from Lowest to Normal.
 ![image](https://github.com/Alerk09/RLTweaks/assets/95437457/f562751b-4114-44a4-a78b-d3732f7930f8)
